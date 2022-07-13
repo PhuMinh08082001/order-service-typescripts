@@ -1,0 +1,2 @@
+A:\InitTS\node_modules\.bin\grpc_tools_node_protoc --js_out=import_style=commonjs,binary:A:\InitTS\proto 
+--grpc_out=A:\InitTS\proto --plugin=A:\InitTS\node_modules/.bin/grpc_tools_node_protoc_plugin.cmd -I A:\InitTS\proto A:\InitTS\proto\orders.proto
